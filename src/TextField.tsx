@@ -5,9 +5,7 @@ interface Props {
 }
 
 export const TextField: React.FC<Props> = () => {
-    return (
-        <div>
-            <input />
-        </div>
-    )
+    return (<div>
+                 <input />
+        </div>)
 }
