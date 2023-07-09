@@ -1,10 +1,10 @@
 import React from 'react'
-import {TextField} from "./TextField";
+import { TextField } from './TextField'
 
-const App:  React.FC = () => {
-    return (
+const App: React.FC = () => {
+  return (
     <div>
-< TextField text={} />
-            </div>
-    )
+      <TextField text={} />
+    </div>
+  )
 }
